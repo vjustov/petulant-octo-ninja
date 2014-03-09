@@ -21,8 +21,6 @@ group :development do
   gem 'binding_of_caller', :platforms=>[:mri_19, :mri_20, :rbx]
   gem 'guard-bundler'
   gem 'guard-rails'
-  gem 'haml2slim'
-  gem 'html2haml'
   gem 'quiet_assets'
   gem 'rails_layout'
   gem 'rb-fchange', :require=>false
